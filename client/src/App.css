@@ -1,0 +1,25 @@
+.App {
+  padding: 0 15vw;
+}
+
+a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section,
+form {
+  padding-top: 1rem;
+}
+
+ol {
+  padding: 0;
+}
+
+img {
+  max-width: 250px;
+}
